@@ -13,7 +13,7 @@
 
 
 <section name="Canavarin HTML'i" class="mt-16 mx-14">
-<p>Canavar</p>    
+<p>Canavarımsı</p>    
 <v-progress-linear
   v-model="canavar.can"
   height="40" 
@@ -39,7 +39,7 @@ var oyuncu {
     kalkan:500,
 }
 var canavar {
-    can:100,
+    can:110,
     saldiriGücü:300,
     kalkan:600,
 }
