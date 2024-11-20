@@ -83,6 +83,9 @@ function ÖzelAtak() {
   font-weight: bold;
 }
 
-
+.ÖzelBaşlık {
+  font-size: 30px;
+  font-weight: bold;
+}
 
 </style>
